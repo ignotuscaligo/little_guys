@@ -1,0 +1,7 @@
+.DS_Store
+*.swp
+*.sublime-workspace
+web-export/
+code/
+applet/
+application.*
